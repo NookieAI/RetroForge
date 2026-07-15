@@ -3,6 +3,10 @@
 [![Downloads](https://img.shields.io/github/downloads/NookieAI/RetroForge/total?label=downloads)](https://github.com/NookieAI/RetroForge/releases/latest)
 [![Release](https://img.shields.io/github/v/release/NookieAI/RetroForge)](https://github.com/NookieAI/RetroForge/releases/latest)
 
+![A wall of box art RetroForge pulls automatically](assets/box-art-banner.jpg)
+
+*A fraction of the cover art RetroForge matches and drops onto your card — automatically, one click.*
+
 **One-click cleanup for your retro-gaming cards.** RetroForge scans your ROM
 collection, fills in box art, descriptions, genres, and cheats, fixes broken
 gamelists and damaged files, tidies filenames, and gets your card ready for any
@@ -119,6 +123,16 @@ others — and writes `.m3u` playlists for multi-disc games.
 - **Tidy up** — removes empty folders and boot-slowing clutter, all reversible.
 - **Export** — writes gamelists and media trees for ES-DE, Batocera, RetroPie,
   and more.
+
+---
+
+## The art
+
+Box art, snaps, and title screens for the whole retro back-catalogue — matched to
+your games by name and dropped straight onto the card. Here's a wall of real covers
+it pulls (a small slice of what's on tap):
+
+![Hundreds of real box-art covers](assets/box-art-wall.jpg)
 
 ---
 
