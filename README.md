@@ -141,3 +141,12 @@ it pulls (a small slice of what's on tap):
 RetroForge is **completely free**. No account, no sign-up, no license key, and
 no telemetry. It pulls art and metadata from its own hosted library with nothing
 to configure, and it never reports anything about your collection back to us.
+
+## Support
+
+RetroForge is free and always will be — but the CDN and the coffee behind it
+aren't. If it saved you an evening of scraping, a tip keeps the project alive:
+
+[![Support on Ko-fi](https://img.shields.io/badge/Support-Ko--fi-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/nookie_65120)
+
+☕ **[ko-fi.com/nookie_65120](https://ko-fi.com/nookie_65120)**
