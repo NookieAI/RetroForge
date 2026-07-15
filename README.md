@@ -11,6 +11,20 @@ frontend — all from one desktop app.
 Cross-platform standalone builds for **Windows, Linux, and macOS**. No install,
 no setup — point it at your card and press one button.
 
+![RetroForge — Fix my card, one-button cleanup](assets/screenshot-home.png)
+
+## Why I built it
+
+I made RetroForge for **no-WiFi handhelds** — the **R36Max / R36Max2** and the
+whole family of budget clones (R36S, RG35XX-style). A lot of them have **no WiFi
+at all**, and even the ones that do can't realistically scrape box art on-device.
+So every game shows up as a bare filename with no cover. The sane fix is to prep
+the card on your PC and flash it — but I couldn't find a tool that did the *whole*
+job in one shot, with no accounts and no fuss. So I built one. It works for any
+card and any frontend, but that's the itch it was made to scratch.
+
+![RetroForge — your collection, ready to fix](assets/screenshot-library.png)
+
 ---
 
 ## 🔒 Your art library stays private (new in v0.6.0)
